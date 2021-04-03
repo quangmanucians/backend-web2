@@ -1,0 +1,11 @@
+{
+    "name": "quangmanucians/backendweb",
+    "description": "for example",
+    "authors": [
+        {
+            "name": "quangmanucians",
+            "email": "zzquangmanucianszz@gmail.com"
+        }
+    ],
+    "require": {}
+}
